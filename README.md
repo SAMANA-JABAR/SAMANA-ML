@@ -1,5 +1,5 @@
 # SAMANA-ML
-[![Platform](https://img.shields.io/badge/platform-Jupyter%20Notebook-orange.svg)](http://developer.android.com/index.html)
+[![Platform](https://img.shields.io/badge/platform-Jupyter%20Notebook-orange.svg)](#)
 
 # Table Of Contents
 - [Introduction](#introduction)
